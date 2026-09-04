@@ -2,3 +2,6 @@
 A simple recipe website made as an assignment by The Odin Project to 
 consolidate linking, creating lists
 and adding images.
+
+IMAGES USED:
+Lentil soup in Fakes recipe by user JaBB on flicker.com
